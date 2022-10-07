@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mad-app-gang_test/static/css/main.837a2eae.css",
+    "main.js": "/mad-app-gang_test/static/js/main.ad74bc40.js",
+    "index.html": "/mad-app-gang_test/index.html",
+    "main.837a2eae.css.map": "/mad-app-gang_test/static/css/main.837a2eae.css.map",
+    "main.ad74bc40.js.map": "/mad-app-gang_test/static/js/main.ad74bc40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837a2eae.css",
+    "static/js/main.ad74bc40.js"
+  ]
+}
